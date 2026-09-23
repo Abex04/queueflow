@@ -1,0 +1,16 @@
+{
+  "name": "queueflow-web",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "ng serve",
+    "build": "ng build"
+  },
+  "dependencies": {
+    "@angular/core": "^18.0.0",
+    "@angular/common": "^18.0.0",
+    "@angular/platform-browser": "^18.0.0",
+    "@angular/router": "^18.0.0",
+    "@microsoft/signalr": "^8.0.0",
+    "rxjs": "^7.8.0"
+  }
+}
