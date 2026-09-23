@@ -9,5 +9,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="../QueueFlow.Infrastructure/QueueFlow.Infrastructure.csproj" />
+    <ProjectReference Include="..\QueueFlow.Application\QueueFlow.Application.csproj" />
   </ItemGroup>
 </Project>
